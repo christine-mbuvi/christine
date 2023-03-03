@@ -1,0 +1,8 @@
+[Trace 14:45:00.029] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/muenimbuvi/README.md
+[Trace 14:45:00.033] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/muenimbuvi/README.md
+[Trace 14:45:00.038] Server: connection.languages.diagnostics.on: file:///home/muenimbuvi/README.md
+[Trace 14:45:00.065] DocumentSymbolProvider: provideDocumentSymbols — file:///home/muenimbuvi/README.md 1
+[Debug 14:45:00.066] LinkProvider: compute - file:///home/muenimbuvi/README.md
+[Trace 14:45:00.071] Server: connection.languages.diagnostics.on: file:///home/muenimbuvi/README.md
+[Debug 14:45:00.359] MdFoldingProvider: provideFoldingRanges — file:///home/muenimbuvi/README.md 1
+[Debug 14:45:00.360] TableOfContentsProvider: create - file:///home/muenimbuvi/README.md

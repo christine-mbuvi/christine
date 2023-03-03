@@ -1,0 +1,8 @@
+[color]
+	ui = true
+[user]
+	name = +
+	email = +
+	email = +
+[init]
+	defaultBranch = main
