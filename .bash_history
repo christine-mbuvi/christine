@@ -289,3 +289,81 @@ git commit -m "Initialize git"
 git remote -v
 git branch --show-current
 git push -u origin main
+git add 
+clear
+git add .
+git commit -m "commit message"
+git push
+clear
+git clone git@github.com:<your-github-username>/phase-0-git-basics-lab.git
+git clone git@github.com:christine-mbuvi/phase-0-git-basic-lab.git
+cd phase-0-git-basics-lab.
+ruby --version
+gem --version
+curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/wsl-phase-0-manual-setup-validator.sh | bash 2> /dev/null
+ruby -v
+gem -v
+rbenv version
+rbenv install 2.7.4
+git clone https://github.com/rbenv/rbenv.git~/.rbenv
+clear
+sudo apt-get install rvm
+source/etc/profile.d/rvm.sh
+curl -sSL https://raw.githubusercontent.com/flatiron-school/dotfiles/master/rvm-shell-script>> ~/.bashrc
+rvm
+rvm list
+rvm install 2.7.4 --default
+rvm use 2.7.4 --default
+rvm install ruby 2.7.4
+gem update --system
+gem --version
+gem install bundler
+ge install pry
+sudo apt install bundler
+sudo apt-get update
+--fix-missing
+sudo apt --fix-missing
+clear
+rvm
+rvm -v
+clear
+rvm list
+rvm use 2.7.7 --default
+rvm use 2.7.4 --default
+rvm install ruby-2.7.4 --default
+rvm use 2.7.4 --default
+clear
+rvm list
+rvm use 2.7.7 --default
+clear
+whoami
+pwd
+cd
+pwd
+flatiron_school
+clear
+touch hello_world.rb
+ls
+rm hello_world.rb
+rm -r
+rm --help
+rm-- -hello_world
+man ps
+q
+clear
+cd ~
+mkdir development
+cd development
+mkdir code
+cd code
+cd~/development/code
+clear
+gem install learn-lab
+gem install learn-lab
+sudo apt install learn-lab
+learn-lab config
+rbenv install learn-lab
+rbenv install --list
+gem install learn-lab
+npm install
+sudo apt install npm
